@@ -27,7 +27,7 @@ def Quicksort:
                 equal.append(x)
             elif x > pivot:
                 right.append(x)
-        return sort(left)+equal+sort(right)  
+        return Quicksort(left)+equal+Quicksort(right)  
     else:  
         return array
 ```
