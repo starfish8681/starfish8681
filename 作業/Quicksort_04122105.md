@@ -42,6 +42,6 @@ Worst Case：Ο(n2)　
 
 Average Case：Ο(n log n)
 
-Quick Sort流程圖
+Quick Sort 流程圖
 -----
 [FlowChart](https://github.com/starfish8681/starfish8681/blob/master/%E4%BD%9C%E6%A5%AD/Quicksort_Flowchart_04122105.jpg)
