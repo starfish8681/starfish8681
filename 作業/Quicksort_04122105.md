@@ -27,7 +27,7 @@ def Quicksort:
                 equal.append(x)
             elif x > pivot:
                 right.append(x)
-        return Quicksort(left)+equal+Quicksort(right)  
+        return   
     else:  
         return array
 ```
@@ -41,3 +41,7 @@ Worst Case：Ο(n2)　
 當資料的順序恰好為由大到小或由小到大時，有分割跟沒分割一樣
 
 Average Case：Ο(n log n)
+
+Quick Sort流程圖
+-----
+![Flow%20Chart.jpg](attachment:Flow%20Chart.jpg)
