@@ -13,7 +13,7 @@ Python 程式碼
 
 
 ```python
-def Quicksort:
+def Quicksort(array):
     left = []
     equal = []
     right = []
@@ -27,7 +27,7 @@ def Quicksort:
                 equal.append(x)
             elif x > pivot:
                 right.append(x)
-        return   
+        return Quicksort(left)+equal+Quicksort(right)
     else:  
         return array
 ```
