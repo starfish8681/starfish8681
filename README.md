@@ -8,7 +8,7 @@ Week 2
 Week 3
 ----
 [Queue](https://github.com/starfish8681/starfish8681/blob/master/Week%203/implement-queue-using-stacks.py)
-.[Stack](https://github.com/starfish8681/starfish8681/blob/master/Week%203/mini%20stack.py)
+. [Stack](https://github.com/starfish8681/starfish8681/blob/master/Week%203/mini%20stack.py)
 
 Week 4
 ----
