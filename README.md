@@ -20,3 +20,6 @@ Week 4
 ----
 [Insertion Sort](https://github.com/starfish8681/starfish8681/blob/master/Week%204/Insertion%20Sort.py)
 
+Week 5
+----
+[Quick Sort_Recursive](https://github.com/starfish8681/starfish8681/blob/master/Week%205/Quick%20Sort_Recursive.py)
