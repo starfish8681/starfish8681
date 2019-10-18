@@ -12,8 +12,8 @@ class Solution:
     def isUnivalTree(self, root):
         vals = []
 
-        def dfs(node): #若node非0或Null
-            if node:
+        def dfs(node): 
+            if node:  #若node非0或Null
                 vals.append(node.val)
                 dfs(node.left)
                 dfs(node.right)
