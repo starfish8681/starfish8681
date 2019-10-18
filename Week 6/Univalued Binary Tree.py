@@ -9,7 +9,7 @@
 #         self.right = None
 
 class Solution:
-    def isUnivalTree(self, root: TreeNode) -> bool:
+    def isUnivalTree(self, root):
         vals = []
 
         def dfs(node): #若node非0或Null
