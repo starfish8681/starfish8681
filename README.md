@@ -28,4 +28,4 @@ Week 6
 
 Week 8
 ----
-[Binary Tree]()
+[Binary Tree_Linked Structure](https://github.com/starfish8681/starfish8681/blob/master/Week%208/Binary%20Tree_Linked%20Structure.py)
