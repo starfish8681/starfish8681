@@ -22,4 +22,4 @@ Week 4
 
 Week 6
 ----
-[Quick Sort_Recursive](https://github.com/starfish8681/starfish8681/blob/master/Week%205/Quick%20Sort_Recursive.py)
+[Quick Sort_Recursive](https://github.com/starfish8681/starfish8681/blob/master/Week%206/Quick%20Sort_Recursive.py)
