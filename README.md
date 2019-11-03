@@ -1,6 +1,15 @@
 # 資料結構與演算法 學習筆記
 04122105 高星瑜
 
+HW 2
+----
+1. [Heap Sort程式碼](https://github.com/starfish8681/starfish8681/blob/master/HW2/heap_sort_04122105.py)  
+2. [Merge Sort程式碼]()    
+3. [Heap Sort流程圖與文字說明](https://github.com/starfish8681/starfish8681/blob/master/HW2/Heapsort%E6%8F%8F%E8%BF%B0.ipynb)  
+   [nbviewer](https://nbviewer.jupyter.org/github/starfish8681/starfish8681/blob/master/HW2/Heapsort%E6%8F%8F%E8%BF%B0.ipynb)
+4. [Merge Sort流程圖與文字說明]()  
+5. [Heap Sort/Merge Sort比較]()
+
 HW 1
 ----
 1. [Quick Sort](https://github.com/starfish8681/starfish8681/blob/master/%E4%BD%9C%E6%A5%AD/Quicksort_04122105.ipynb)  
