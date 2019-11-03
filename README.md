@@ -1,7 +1,7 @@
 # 資料結構與演算法 學習筆記
 04122105 高星瑜
 
-作業
+HW
 ----
 1. [Quick Sort](https://github.com/starfish8681/starfish8681/blob/master/%E4%BD%9C%E6%A5%AD/Quicksort_04122105.ipynb)  
 [nbviewer](https://nbviewer.jupyter.org/github/starfish8681/starfish8681/blob/master/%E4%BD%9C%E6%A5%AD/Quicksort_04122105.ipynb)  
