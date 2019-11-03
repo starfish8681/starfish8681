@@ -7,7 +7,7 @@ HW 2
 2. [Merge Sort程式碼]()    
 3. [Heap Sort文字說明](https://github.com/starfish8681/starfish8681/blob/master/HW2/Heapsort%E6%8F%8F%E8%BF%B0.ipynb)  
 [Buildheap流程圖](https://github.com/starfish8681/starfish8681/blob/master/Week%208/BuildHeap.jpg)
-. [Heapsort流程圖](https://github.com/starfish8681/starfish8681/blob/master/Week%208/Heapsort.jpg)
+. [Heapsort流程圖](https://github.com/starfish8681/starfish8681/blob/master/Week%208/Heapsort.jpg)  
 [nbviewer](https://nbviewer.jupyter.org/github/starfish8681/starfish8681/blob/master/HW2/Heapsort%E6%8F%8F%E8%BF%B0.ipynb)
 4. [Merge Sort流程圖與文字說明]()  
 5. [Heap Sort/Merge Sort比較]()
