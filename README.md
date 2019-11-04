@@ -4,12 +4,14 @@
 HW 2
 ----
 1. [Heap Sort程式碼](https://github.com/starfish8681/starfish8681/blob/master/HW2/heap_sort_04122105.py)  
-2. [Merge Sort程式碼]()    
+2. [Merge Sort程式碼](https://github.com/starfish8681/starfish8681/blob/master/HW2/merge_sort_04122105.py)    
 3. [Heap Sort文字說明](https://github.com/starfish8681/starfish8681/blob/master/HW2/Heapsort%E6%8F%8F%E8%BF%B0.ipynb)  
 [Build Heap流程圖](https://github.com/starfish8681/starfish8681/blob/master/Week%208/BuildHeap.jpg)
 . [Heap Sort流程圖](https://github.com/starfish8681/starfish8681/blob/master/Week%208/Heapsort.jpg)  
 [nbviewer](https://nbviewer.jupyter.org/github/starfish8681/starfish8681/blob/master/HW2/Heapsort%E6%8F%8F%E8%BF%B0.ipynb)
-4. [Merge Sort流程圖與文字說明]()  
+4. [Merge Sort文字說明]()  
+[Merge流程圖](https://github.com/starfish8681/starfish8681/blob/master/Week%208/Merge.jpg)
+. [Merge Sort流程圖]()
 5. [Heap Sort/Merge Sort比較]()
 
 HW 1
