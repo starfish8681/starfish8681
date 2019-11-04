@@ -11,7 +11,7 @@ HW 2
 [nbviewer](https://nbviewer.jupyter.org/github/starfish8681/starfish8681/blob/master/HW2/Heapsort%E6%8F%8F%E8%BF%B0.ipynb)
 4. [Merge Sort文字說明]()  
 [Merge流程圖](https://github.com/starfish8681/starfish8681/blob/master/Week%208/Merge.jpg)
-. [Merge Sort流程圖]()
+. [Divide流程圖](https://github.com/starfish8681/starfish8681/blob/master/Week%208/Divide.jpg)
 5. [Heap Sort/Merge Sort比較]()
 
 HW 1
