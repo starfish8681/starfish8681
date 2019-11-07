@@ -24,6 +24,7 @@ Mergesort:
 |Heapsort       | Mergesort   |
 | ------------- |-------------|
  |Ο(1)|Ο(n)|
+ 
  Heapsort:
 ----
 不需要額外的數列來儲存排列好的數，所以時間複雜度為O(1)。
@@ -31,8 +32,12 @@ Mergesort:
 Mergesort:
 ----
 需要一個與原來數列一樣的額外空間，來暫時儲存每一回合的合併結果，故為O(n)。
-
-
+  
+  
+    
+     
+     
+     
 參考資料  
 [初學者學演算法-排序法進階-合併排序法](https://medium.com/appworks-school/%E5%88%9D%E5%AD%B8%E8%80%85%E5%AD%B8%E6%BC%94%E7%AE%97%E6%B3%95-%E6%8E%92%E5%BA%8F%E6%B3%95%E9%80%B2%E9%9A%8E-%E5%90%88%E4%BD%B5%E6%8E%92%E5%BA%8F%E6%B3%95-6252651c6f7e)  
 [合併排序](https://kopu.chat/2017/08/10/%E5%90%88%E4%BD%B5%E6%8E%92%E5%BA%8F-merge-sort/)  
