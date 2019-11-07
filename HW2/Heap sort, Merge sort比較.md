@@ -10,7 +10,7 @@ Heap sort/Merge sort比較
 
 Heapsort:
 ----
-Heapify的部分，時間複雜度是Ο(log n)，然後再Heapsort時要倫過每一個節點(n)，所以Heapsort的總共時間複雜度是O(n log n)。  
+Heapify的部分，時間複雜度是Ο(log n)，然後再Heapsort時要輪過每一個節點(n)，所以Heapsort的總共時間複雜度是O(n log n)。  
 
 Mergesort:
 ----
