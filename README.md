@@ -26,7 +26,7 @@ Week 3
 
 Week 4
 ----
-[Insertion Sort](https://github.com/starfish8681/starfish8681/blob/master/Week%204/Insertion%20Sort.py)  
+[Insertion Sort](https://github.com/starfish8681/starfish8681/blob/master/Week%204/Insertion%20Sort.py)
 . [HW1-Quick Sort](https://github.com/starfish8681/starfish8681/blob/master/%E4%BD%9C%E6%A5%AD/Quicksort_04122105.ipynb)
 
 Week 6
