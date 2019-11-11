@@ -70,11 +70,11 @@ Stack
 回應頂端元素。
 
 ---
-#Week 4  
+# Week 4  
 Insertion Sort  
 ----
 
 ---
-#Week6  
+# Week6  
 Quick Sort  
 ----
