@@ -35,15 +35,13 @@ Week 2
 ----
 Linked_list
 ====
-Linked-list介紹:
-----
+- Linked-list介紹:  
 Linked-list是由一連串的節點（Node）所構成，每個節點指向下一個節點，而最後一個節點則指向None。  
 因此，每個節點本身應該要有兩種屬性（attribute），一個是本身帶有的值或者是資料，另一個則是指向下一個節點的指標（pointer）。  
-與Array的差別:
-----
+- 與Array的差別:  
 陣列使用一連串的記憶體位置，因此可以透過array[index]直接存取資料，  
 但是相對的，若要在陣列中加入或是刪除元素，則需要大量的資料搬移。  
 而Linked-list的資料則散落在記憶體中各處，加入或是刪除元素只需要改變pointer即可完成，  
-但是相對的，在資料的讀取上比較適合循序的使用，無法直接取得特定順序的值（比如說沒辦法直接知道list[3]）。
-
-參考資料: [用python實作linked-list](https://medium.com/@tobby168/%E7%94%A8python%E5%AF%A6%E4%BD%9Clinked-list-524441133d4d)
+但是相對的，在資料的讀取上比較適合循序的使用，無法直接取得特定順序的值（比如說沒辦法直接知道list[3]）。  
+  
+- 參考資料: [用python實作linked-list](https://medium.com/@tobby168/%E7%94%A8python%E5%AF%A6%E4%BD%9Clinked-list-524441133d4d)
