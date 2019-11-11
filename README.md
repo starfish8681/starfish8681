@@ -16,19 +16,19 @@
 5. [Heap Sort/Merge Sort比較](https://github.com/starfish8681/starfish8681/blob/master/HW2/Heap%20sort,%20Merge%20sort%E6%AF%94%E8%BC%83.md)
 
 ---
-- [Week 2:](#week-2)
+- [Week 2:](#week-2)  
 [Linked List.py](https://github.com/starfish8681/starfish8681/blob/master/Week%202/Linked_list.py)  
-- Week 3:
+- Week 3:  
 [Queue.py](https://github.com/starfish8681/starfish8681/blob/master/Week%203/implement-queue-using-stacks.py)
 . [Stack,py](https://github.com/starfish8681/starfish8681/blob/master/Week%203/mini%20stack.py)
-- Week 4:
+- Week 4:  
 [Insertion Sort.py](https://github.com/starfish8681/starfish8681/blob/master/Week%204/Insertion%20Sort.py)
 . [HW1-Quick Sort](https://github.com/starfish8681/starfish8681/blob/master/%E4%BD%9C%E6%A5%AD/Quicksort_04122105.ipynb)
-- Week 6:
+- Week 6:  
 [Quick Sort_Recursive.py](https://github.com/starfish8681/starfish8681/blob/master/Week%206/Quick%20Sort_Recursive.py)
 . [Heap Sort.py](https://github.com/starfish8681/starfish8681/blob/master/Week%206/Heap%20Sort.py)
 . [Merge Sort.py](https://github.com/starfish8681/starfish8681/blob/master/Week%206/Merge%20Sort.py)
-- Week 8:
+- Week 8:  
 [Binary Tree_Linked Structure.py](https://github.com/starfish8681/starfish8681/blob/master/Week%208/Binary%20Tree_Linked%20Structure.py)
 
 ---
