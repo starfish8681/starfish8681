@@ -31,10 +31,9 @@
 [Binary Tree_Linked Structure](https://github.com/starfish8681/starfish8681/blob/master/Week%208/Binary%20Tree_Linked%20Structure.py)
 
 
-Week 2
-----
+#Week 2
 Linked_list
-====
+----
 - Linked-list介紹:  
 Linked-list是由一連串的節點（Node）所構成，每個節點指向下一個節點，而最後一個節點則指向None。  
 因此，每個節點本身應該要有兩種屬性（attribute），一個是本身帶有的值或者是資料，另一個則是指向下一個節點的指標（pointer）。  
