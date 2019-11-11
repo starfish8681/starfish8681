@@ -15,12 +15,6 @@ HW 2
 [nbviewer](https://nbviewer.jupyter.org/github/starfish8681/starfish8681/blob/master/HW2/mergesort%E6%8F%8F%E8%BF%B0.ipynb)
 5. [Heap Sort/Merge Sort比較](https://github.com/starfish8681/starfish8681/blob/master/HW2/Heap%20sort,%20Merge%20sort%E6%AF%94%E8%BC%83.md)
 
-HW 1
-----
-1. [Quick Sort](https://github.com/starfish8681/starfish8681/blob/master/%E4%BD%9C%E6%A5%AD/Quicksort_04122105.ipynb)  
-[nbviewer](https://nbviewer.jupyter.org/github/starfish8681/starfish8681/blob/master/%E4%BD%9C%E6%A5%AD/Quicksort_04122105.ipynb)   
-2. [Quick Sort 流程圖](https://github.com/starfish8681/starfish8681/blob/master/%E4%BD%9C%E6%A5%AD/Quicksort_Flowchart_04122105.jpg)
-
 Week 2
 ----
 [Linked List](https://github.com/starfish8681/starfish8681/blob/master/Week%202/Linked_list.py)  
@@ -32,7 +26,8 @@ Week 3
 
 Week 4
 ----
-[Insertion Sort](https://github.com/starfish8681/starfish8681/blob/master/Week%204/Insertion%20Sort.py)
+[Insertion Sort](https://github.com/starfish8681/starfish8681/blob/master/Week%204/Insertion%20Sort.py)  
+. [HW1-Quick Sort](https://github.com/starfish8681/starfish8681/blob/master/%E4%BD%9C%E6%A5%AD/Quicksort_04122105.ipynb)
 
 Week 6
 ----
