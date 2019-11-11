@@ -16,7 +16,7 @@
 5. [Heap Sort/Merge Sort比較](https://github.com/starfish8681/starfish8681/blob/master/HW2/Heap%20sort,%20Merge%20sort%E6%AF%94%E8%BC%83.md)
 
 ---
-- Week 2
+- [Week 2](#week-2)
 [Linked List](https://github.com/starfish8681/starfish8681/blob/master/Week%202/Linked_list.py)  
 - Week 3
 [Queue](https://github.com/starfish8681/starfish8681/blob/master/Week%203/implement-queue-using-stacks.py)
