@@ -49,7 +49,6 @@ Linked-list是由一連串的節點（Node）所構成，每個節點指向下�
 # Week 3  
 Queue
 ----
-- Queue介紹:
 佇列，先進先出。
 - Push  
 在佇列中加入元素。  
