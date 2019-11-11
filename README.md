@@ -17,7 +17,7 @@
 ---
 - [Week 2](#week-2) :  
 [Linked List.py](https://github.com/starfish8681/starfish8681/blob/master/Week%202/Linked_list.py)  
-- [Week 3](#) :  
+- [Week 3](#Week-3) :  
 [Queue.py](https://github.com/starfish8681/starfish8681/blob/master/Week%203/implement-queue-using-stacks.py)
 . [Stack,py](https://github.com/starfish8681/starfish8681/blob/master/Week%203/mini%20stack.py)
 - Week 4 :  
