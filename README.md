@@ -31,7 +31,7 @@
 [Binary Tree_Linked Structure](https://github.com/starfish8681/starfish8681/blob/master/Week%208/Binary%20Tree_Linked%20Structure.py)
 
 
-#Week 2  
+# Week 2  
 Linked_list
 ----
 - Linked-list介紹:  
