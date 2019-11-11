@@ -44,3 +44,19 @@ Linked-list是由一連串的節點（Node）所構成，每個節點指向下�
 但是相對的，在資料的讀取上比較適合循序的使用，無法直接取得特定順序的值（比如說沒辦法直接知道list[3]）。  
   
 - 參考資料: [用python實作linked-list](https://medium.com/@tobby168/%E7%94%A8python%E5%AF%A6%E4%BD%9Clinked-list-524441133d4d)
+
+---
+# Week 3  
+Queue
+----
+- Queue介紹:
+佇列，先進先出。
+- Push  
+在佇列中加入元素。  
+- Pop  
+將最前面(最先放入)的元素取出。  
+- Peek  
+回應最前面的數。  
+- Empty   
+回應數列是否為空。  
+
