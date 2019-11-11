@@ -1,7 +1,7 @@
 # 資料結構與演算法 學習筆記
 04122105 高星瑜
 
-HW 2
+# HW 2
 ----
 1. [Heap Sort程式碼](https://github.com/starfish8681/starfish8681/blob/master/HW2/heap_sort_04122105.py)  
 2. [Merge Sort程式碼](https://github.com/starfish8681/starfish8681/blob/master/HW2/merge_sort_04122105.py)    
@@ -16,7 +16,7 @@ HW 2
 5. [Heap Sort/Merge Sort比較](https://github.com/starfish8681/starfish8681/blob/master/HW2/Heap%20sort,%20Merge%20sort%E6%AF%94%E8%BC%83.md)
 
 Week 2
-[Linked List](https://github.com/starfish8681/starfish8681/blob/master/Week%202/Linked_list.py)  
+- [Linked List](https://github.com/starfish8681/starfish8681/blob/master/Week%202/Linked_list.py)  
 
 Week 3
 [Queue](https://github.com/starfish8681/starfish8681/blob/master/Week%203/implement-queue-using-stacks.py)
