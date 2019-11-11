@@ -16,7 +16,6 @@
 5. [Heap Sort/Merge Sort比較](https://github.com/starfish8681/starfish8681/blob/master/HW2/Heap%20sort,%20Merge%20sort%E6%AF%94%E8%BC%83.md)
 
 ---
-
 - Week 2
 [Linked List](https://github.com/starfish8681/starfish8681/blob/master/Week%202/Linked_list.py)  
 - Week 3
@@ -32,7 +31,7 @@
 - Week 8
 [Binary Tree_Linked Structure](https://github.com/starfish8681/starfish8681/blob/master/Week%208/Binary%20Tree_Linked%20Structure.py)
 
-
+---
 # Week 2  
 Linked_list
 ----
