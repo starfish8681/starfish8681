@@ -137,3 +137,13 @@ Merge Sort
 # Week 8
 Binary Tree
 ----
+
+---
+# Week 9
+Binary Search Tree  
+----
+
+---
+# Week 10  
+Red Black Tree
+----
