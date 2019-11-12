@@ -28,8 +28,11 @@
 . [Heap Sort.py](https://github.com/starfish8681/starfish8681/blob/master/Week%206/Heap%20Sort.py)
 . [Merge Sort.py](https://github.com/starfish8681/starfish8681/blob/master/Week%206/Merge%20Sort.py)
 - [Week 8](#week-8) :  
-[Binary Tree_Linked Structure.py](https://github.com/starfish8681/starfish8681/blob/master/Week%208/Binary%20Tree_Linked%20Structure.py)
-
+[Binary Tree_Linked Structure.py](https://github.com/starfish8681/starfish8681/blob/master/Week%208/Binary%20Tree_Linked%20Structure.py)  
+- [Week 9](#week-9) :  
+[Binary Search Tree]()
+- [Week 10](#week-10) :  
+[Red Black Tree]()
 ---
 # Week 2  
 Linked_list
