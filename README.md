@@ -153,8 +153,19 @@ Binary Search Tree
 3.左子樹和右子樹亦是二元搜尋樹。  
 4.每個鍵值都不一樣。  
   
-- 參考資料:[樹狀結構與二元樹](http://marklin-blog.logdown.com/posts/1526463)
+在BST中的操作，不論是Insert(新增資料)或是Delete(刪除資料)，皆需要先做Search(搜尋)，  
+而Search(搜尋)的效率，取決於BST的height(樹高)，如果一棵樹越矮、越平衡(balanced)，則在此BST中搜尋資料的速度較快，  
+理想狀況為Complete Binary Tree(時間複雜度：O(logN))。  
+反之，若由於輸入資料的順序使得BST沒長好、偏一邊，則在此BST中搜尋資料的最壞情況將有可能如同在Linked List做搜尋(時間複雜度：O(N))。 
+ 
+- 參考資料: [樹狀結構與二元樹](http://marklin-blog.logdown.com/posts/1526463)  
+(https://alrightchiu.github.io/SecondRound/red-black-tree-introjian-jie.html)
+
+
 ---
 # Week 10  
 Red Black Tree
 ----
+- 介紹:  
+  
+- 參考資料: [Red Black Tree: Intro(簡介)](https://alrightchiu.github.io/SecondRound/red-black-tree-introjian-jie.html)
