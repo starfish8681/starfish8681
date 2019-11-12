@@ -137,12 +137,23 @@ Merge Sort
 # Week 8
 Binary Tree
 ----
-
+- Binary Tree介紹:  
+二元樹是每個節點最多有兩個子樹的樹結構，子樹有左右之分，二元樹常被用於實現二元搜尋樹(binary search tree)和二元堆(binary heap)。  
+  
+- 參考資料: [二元樹](https://emn178.pixnet.net/blog/post/94164966)
+  
 ---
 # Week 9
 Binary Search Tree  
 ----
-
+- Binary Search Tree介紹:   
+二元搜尋樹它有以下特性。  
+1.在左子樹的鍵值均小於樹根的鍵值。  
+2.在右子樹的所有鍵值均大於樹根的鍵值。  
+3.左子樹和右子樹亦是二元搜尋樹。  
+4.每個鍵值都不一樣。  
+  
+- 參考資料:[樹狀結構與二元樹](http://marklin-blog.logdown.com/posts/1526463)
 ---
 # Week 10  
 Red Black Tree
