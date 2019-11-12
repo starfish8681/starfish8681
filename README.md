@@ -159,13 +159,13 @@ Binary Search Tree
 反之，若由於輸入資料的順序使得BST沒長好、偏一邊，則在此BST中搜尋資料的最壞情況將有可能如同在Linked List做搜尋(時間複雜度：O(N))。 
  
 - 參考資料: [樹狀結構與二元樹](http://marklin-blog.logdown.com/posts/1526463)  
-(https://alrightchiu.github.io/SecondRound/red-black-tree-introjian-jie.html)
+
 
 
 ---
 # Week 10  
 Red Black Tree
 ----
-- 介紹:  
+- Red Black Tree介紹:  
   
-- 參考資料: [Red Black Tree: Intro(簡介)](https://alrightchiu.github.io/SecondRound/red-black-tree-introjian-jie.html)
+- 參考資料: [Red Black Tree: Intro](https://alrightchiu.github.io/SecondRound/red-black-tree-introjian-jie.html)
