@@ -1,18 +1,12 @@
 # 資料結構與演算法 學習筆記
 04122105 高星瑜
 
-# HW 2
-1. [Heap Sort程式碼](https://github.com/starfish8681/starfish8681/blob/master/HW2/heap_sort_04122105.py)  
-2. [Merge Sort程式碼](https://github.com/starfish8681/starfish8681/blob/master/HW2/merge_sort_04122105.py)    
-3. [Heap Sort文字說明](https://github.com/starfish8681/starfish8681/blob/master/HW2/Heapsort%E6%8F%8F%E8%BF%B0.ipynb)  
-[Build Heap流程圖](https://github.com/starfish8681/starfish8681/blob/master/Week%208/BuildHeap.jpg)
-. [Heap Sort流程圖](https://github.com/starfish8681/starfish8681/blob/master/Week%208/Heapsort.jpg)  
-[nbviewer](https://nbviewer.jupyter.org/github/starfish8681/starfish8681/blob/master/HW2/Heapsort%E6%8F%8F%E8%BF%B0.ipynb)
-4. [Merge Sort文字說明](https://github.com/starfish8681/starfish8681/blob/master/HW2/mergesort%E6%8F%8F%E8%BF%B0.ipynb)  
-[Merge流程圖](https://github.com/starfish8681/starfish8681/blob/master/Week%208/Merge.jpg)
-. [Divide流程圖](https://github.com/starfish8681/starfish8681/blob/master/Week%208/Divide.jpg)  
-[nbviewer](https://nbviewer.jupyter.org/github/starfish8681/starfish8681/blob/master/HW2/mergesort%E6%8F%8F%E8%BF%B0.ipynb)
-5. [Heap Sort/Merge Sort比較](https://github.com/starfish8681/starfish8681/blob/master/HW2/Heap%20sort,%20Merge%20sort%E6%AF%94%E8%BC%83.md)
+# HW 3
+1. [Binary Search Tree程式碼]()  
+2. [Binary Search Tree學習歷程]()    
+[流程圖]()
+[nbviewer]()
+3. [Binary Search Tree新增.刪除.查詢.修改功能說明]()
 
 ---
 - [Week 2](#week-2) :  
@@ -29,6 +23,7 @@
 . [Merge Sort.py](https://github.com/starfish8681/starfish8681/blob/master/Week%206/Merge%20Sort.py)
 - [Week 8](#week-8) :  
 [Binary Tree_Linked Structure.py](https://github.com/starfish8681/starfish8681/blob/master/Week%208/Binary%20Tree_Linked%20Structure.py)  
+. [HW2-Heap Sort V.S. Merge Sort](https://github.com/starfish8681/starfish8681/tree/master/HW2)
 - [Week 9](#week-9) :  
 [Binary Search Tree]()
 - [Week 10](#week-10) :  
