@@ -111,15 +111,14 @@ class Solution(object):
                             replacednodeP.right = None
                         else:
                             replacednodeP.left = None
-        
-            return True       
+     
         else:
             pass             
         return root.val             
     
     def modify(self, root, target, new_val):    
         if root == new_val:
-            return
+            pass
         else:
             self.delete(root, target)
             self.insert(root, new_val)
