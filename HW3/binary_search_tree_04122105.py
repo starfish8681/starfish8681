@@ -8,7 +8,7 @@ class Solution(object):
     def insert(self, root, val):
         if root.val:
             if root.val == val:
-                return False   #已經有此數
+                pass   #已經有此數
             elif root.val < val:
                 if root.right:
                     root = root.right
@@ -33,13 +33,13 @@ class Solution(object):
                     root = root.right
                     return self.search(root, target)  
                 else:
-                    return False
+                    return None
             else: 
                 if root.left:
                     root = root.left
                     return self.search(root, target)
         else:
-            return False
+            return None
         
     def delete(self, root, target):
         if self.search(root,target) is True:   
@@ -114,7 +114,7 @@ class Solution(object):
         
             return True       
         else:
-            return False              
+            pass             
         return root.val             
     
     def modify(self, root, target, new_val):    
