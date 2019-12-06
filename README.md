@@ -3,9 +3,9 @@
 
 # HW 4
 1. [Hash Table程式碼](https://github.com/starfish8681/starfish8681/blob/master/HW4/hash_table_04122105.py)  
-2. [Hash Table學習歷程]()    
-[流程圖]()  
-[nbviewer]()
+2. [Hash Table學習歷程](https://github.com/starfish8681/starfish8681/blob/master/HW4/hash_table_%E6%B5%81%E7%A8%8B%E5%9C%96%E8%88%87%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E8%88%87%E5%8E%9F%E7%90%86%E8%A7%A3%E9%87%8B_04122105.ipynb)    
+流程圖:[新增](https://github.com/starfish8681/starfish8681/blob/master/Week%2011/HashTable_Add%E6%B5%81%E7%A8%8B%E5%9C%96.jpg).[搜尋](https://github.com/starfish8681/starfish8681/blob/master/Week%2011/HashTable_Contains%E6%B5%81%E7%A8%8B%E5%9C%96.jpg).[刪除](https://github.com/starfish8681/starfish8681/blob/master/Week%2011/HashTable_Remove%E6%B5%81%E7%A8%8B%E5%9C%96.jpg)  
+[nbviewer](https://nbviewer.jupyter.org/github/starfish8681/starfish8681/blob/master/HW4/hash_table_%E6%B5%81%E7%A8%8B%E5%9C%96%E8%88%87%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E8%88%87%E5%8E%9F%E7%90%86%E8%A7%A3%E9%87%8B_04122105.ipynb)
 
 
 ---
