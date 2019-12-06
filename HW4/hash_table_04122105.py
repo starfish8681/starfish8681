@@ -20,10 +20,9 @@ class MyHashSet:
         if self.data[i] == None:
             self.data[i] = ListNode(x)
         else:
-            current = self.data[i]
-            while current != None:
-                current = current.next
-            current = ListNode(x)
+            while self.data[i] != None:
+                self.data[i] = self.data[i].next
+            self.data[i] = ListNode(x)
                   
                 
     def remove(self, key):
@@ -64,5 +63,3 @@ class MyHashSet:
             return False
                     
 
-
-​
