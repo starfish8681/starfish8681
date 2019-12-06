@@ -2,11 +2,11 @@
 04122105 高星瑜
 
 # HW 3
-1. [Binary Search Tree程式碼]()  
-2. [Binary Search Tree學習歷程]()    
+1. [Hash Table程式碼]()  
+2. [Hash Table學習歷程]()    
 [流程圖]()  
 [nbviewer]()
-3. [Binary Search Tree新增.刪除.查詢.修改功能說明]()
+
 
 ---
 - [Week 2](#week-2) :  
@@ -27,6 +27,7 @@
 - [Week 9](#week-9) :  
 [Binary Search Tree]()
 - [Week 10](#week-10) :  
+. [HW3-Binary Search Tree](https://github.com/starfish8681/starfish8681/tree/master/HW2)
 [Red Black Tree.py](https://github.com/starfish8681/starfish8681/blob/master/Week%2010/Red%20Black%20Tree.py)
 ---
 # Week 2  
