@@ -27,8 +27,9 @@
 - [Week 9](#week-9) :  
 [Binary Search Tree]()
 - [Week 10](#week-10) :  
-. [HW3-Binary Search Tree](https://github.com/starfish8681/starfish8681/tree/master/HW2)
 [Red Black Tree.py](https://github.com/starfish8681/starfish8681/blob/master/Week%2010/Red%20Black%20Tree.py)
+. [HW3-Binary Search Tree]()
+
 ---
 # Week 2  
 Linked_list
