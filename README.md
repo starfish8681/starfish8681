@@ -29,6 +29,8 @@
 - [Week 10](#week-10) :  
 [Red Black Tree.py](https://github.com/starfish8681/starfish8681/blob/master/Week%2010/Red%20Black%20Tree.py)
 . [HW3-Binary Search Tree](https://github.com/starfish8681/starfish8681/tree/master/HW3)
+- [Week 11](#week-11) :  
+[Hash Table.py]()
 
 ---
 # Week 2  
@@ -166,3 +168,9 @@ Red Black Tree
 - Red Black Tree介紹:  
   
 - 參考資料: [Red Black Tree: Intro](https://alrightchiu.github.io/SecondRound/red-black-tree-introjian-jie.html)
+
+---
+# Week 11    
+Hash Table  
+----
+- Hash Table介紹:
