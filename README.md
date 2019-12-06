@@ -2,7 +2,7 @@
 04122105 高星瑜
 
 # HW 4
-1. [Hash Table程式碼]()  
+1. [Hash Table程式碼](https://github.com/starfish8681/starfish8681/blob/master/HW4/hash_table_04122105.py)  
 2. [Hash Table學習歷程]()    
 [流程圖]()  
 [nbviewer]()
@@ -28,7 +28,7 @@
 [Binary Search Tree]()
 - [Week 10](#week-10) :  
 [Red Black Tree.py](https://github.com/starfish8681/starfish8681/blob/master/Week%2010/Red%20Black%20Tree.py)
-. [HW3-Binary Search Tree]()
+. [HW3-Binary Search Tree](https://github.com/starfish8681/starfish8681/tree/master/HW3)
 
 ---
 # Week 2  
