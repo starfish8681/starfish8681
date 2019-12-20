@@ -3,9 +3,9 @@
 
 # HW 5
 1. [BFS.DFS程式碼](https://github.com/starfish8681/starfish8681/blob/master/HW5/BFS_04122105.py)  
-2. [BFS.DFS學習歷程與比較說明]()    
+2. [BFS.DFS學習歷程與比較說明](https://github.com/starfish8681/starfish8681/blob/master/HW5/BFS%E5%92%8CDFS%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E8%88%87%E6%AF%94%E8%BC%83_04122105.ipynb)    
 流程圖:[BFS](https://github.com/starfish8681/starfish8681/blob/master/Week%2012/BFS%E6%B5%81%E7%A8%8B%E5%9C%96.jpg).[DFS](https://github.com/starfish8681/starfish8681/blob/master/Week%2012/DFS%E6%B5%81%E7%A8%8B%E5%9C%96.jpg)  
-[nbviewer]()
+[nbviewer](https://nbviewer.jupyter.org/github/starfish8681/starfish8681/blob/master/HW5/BFS%E5%92%8CDFS%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E8%88%87%E6%AF%94%E8%BC%83_04122105.ipynb)
 
 
 ---
