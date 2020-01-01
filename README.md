@@ -31,6 +31,14 @@
 . [HW3-Binary Search Tree](https://github.com/starfish8681/starfish8681/tree/master/HW3)
 - [Week 11](#week-11) :  
 [Hash Table.py]()
+- [Week 12](#week-12) :  
+[BFS.py]()
+- [Week 13](#week-13) :  
+[DFS.py]()
+- [Week 14](#week-14) :  
+[Minimum Spanning Tree]()
+- [Week 15](#week-15) :  
+[Shortest Path]()
 
 ---
 # Week 2  
