@@ -200,3 +200,23 @@ worst case：O(n)，所有資料都被分配到同一個slot中。
 average case：O(1+α)，其中α=「資料數量(n)」除以「slot個數(m)」。    
   
 - 參考資料: 1.[資料結構-雜湊 (Hash)](https://ithelp.ithome.com.tw/articles/10208884)   2.[Hash Table：Intro](http://alrightchiu.github.io/SecondRound/hash-tableintrojian-jie.html#ht)   3.[Hash Table：Chaining](http://alrightchiu.github.io/SecondRound/hash-tablechaining.html)  
+
+---
+# Week 12  
+Breadth-First Search
+----
+
+---
+# Week 13  
+Depth-First Search  
+----
+
+---
+# Week 14  
+Minimum Spanning Tree
+----
+
+--- 
+# Week 15  
+Shortest Path
+----
