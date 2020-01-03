@@ -1,11 +1,11 @@
 # 資料結構與演算法 學習筆記
 04122105 高星瑜
 
-# HW 5
-1. [BFS.DFS程式碼](https://github.com/starfish8681/starfish8681/blob/master/HW5/BFS_04122105.py)  
-2. [BFS.DFS學習歷程與比較說明](https://github.com/starfish8681/starfish8681/blob/master/HW5/BFS%E5%92%8CDFS%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E8%88%87%E6%AF%94%E8%BC%83_04122105.ipynb)    
-流程圖:[BFS](https://github.com/starfish8681/starfish8681/blob/master/Week%2012/BFS%E6%B5%81%E7%A8%8B%E5%9C%96.jpg).[DFS](https://github.com/starfish8681/starfish8681/blob/master/Week%2012/DFS%E6%B5%81%E7%A8%8B%E5%9C%96.jpg)  
-[nbviewer](https://nbviewer.jupyter.org/github/starfish8681/starfish8681/blob/master/HW5/BFS%E5%92%8CDFS%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E8%88%87%E6%AF%94%E8%BC%83_04122105.ipynb)
+# HW 6
+1. [Dijkstra程式碼](https://github.com/starfish8681/starfish8681/blob/master/HW6/Dijkstra_04122105.py)  
+2. [Dijkstra.Kruskal學習歷程說明](https://github.com/starfish8681/starfish8681/blob/master/HW6/Dijkstra__%E5%AD%B8%E7%BF%92%E7%B4%80%E9%8C%84_04122105.ipynb)    
+流程圖:[Dijkstra](https://github.com/starfish8681/starfish8681/blob/master/Week%2014/Dijkstra%E6%B5%81%E7%A8%8B%E5%9C%96.jpg).[Kruskal](https://github.com/starfish8681/starfish8681/blob/master/Week%2014/Kruskal%E6%B5%81%E7%A8%8B%E5%9C%96.jpg)  
+
 
 
 ---
