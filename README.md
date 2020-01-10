@@ -214,17 +214,72 @@ average case：O(1+α)，其中α=「資料數量(n)」除以「slot個數(m)」
 Breadth-First Search
 ----
 
+從圖的某一節點開始走訪，走訪此節點所有相鄰且未拜訪過的節點，接著走訪下一層的節點。下一層的各節點開始走訪順序也要跟上一層走訪過的順序相同。  
+
+- BFS 原理  
+利用Queue的原理來運作，用來存放將走訪的節點，再用pop的方式取出節點(先進先出)。   
+走訪過的節點再依序放入一個array中。  
+
+
+[BFS流程圖](https://github.com/starfish8681/starfish8681/blob/master/Week%2012/BFS%E6%B5%81%E7%A8%8B%E5%9C%96.jpg)
+---
+
+
+
 ---
 # Week 13  
 Depth-First Search  
 ----
 
+從圖的某一節點開始走訪，沿著一個方向走訪直到沒有辦法再前進，回到前一個有其他鄰節點的點，再沿著新的一個方向走訪，直到所有節點都被走訪過。   
+
+- DFS 原理  
+利用Stack的原理來運作，用來存放將走訪的節點，再用pop的方式取出節點(後進先出)。   
+走訪過的節點再依序放入一個array中。  
+
+
+[DFS流程圖](https://github.com/starfish8681/starfish8681/blob/master/Week%2012/DFS%E6%B5%81%E7%A8%8B%E5%9C%96.jpg)
+
+- 參考資料:1.BFS和DFS介紹  
+
+https://www.youtube.com/watch?v=oLtvUWpAnTQ  
+https://www.youtube.com/watch?v=bD8RT0ub--0&t=601s    
+2.BFS和DFS比較  
+
+https://www.itread01.com/content/1549064200.html
+
 ---
 # Week 14  
 Minimum Spanning Tree
 ----
+Kruskal 介紹
+---
+1.把邊照權重大小排序。  
+2.將點到點的邊連出，但樹不能有loop(一顆生成樹只能有一個root)。
+.當某條邊的兩端點不存在於同一顆生成樹時 → 留下這條邊且root會改變  
+.當某條邊的兩端點存在於同一顆生成樹時，會產生loop → 捨棄這條邊
 
+[Kruskal流程圖](https://github.com/starfish8681/starfish8681/blob/master/Week%2014/Kruskal%E6%B5%81%E7%A8%8B%E5%9C%96.jpg)   
+
+- 參考資料:https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/
 --- 
 # Week 15  
 Shortest Path
 ----
+Dijkstra 介紹
+---
+指定一個點 (源點) 到其餘各個頂點的最短路徑，也稱作「單源最短路徑」。  
+
+- 做法:  
+1.設定一個初始全部為空(False)的list(seen)，當前頂點若已經走過，則改成True。  
+2.設定另一個各個位置初始皆為無限大(99999)的list，代表與被選擇的點的距離(dis[])。被選擇的起始點與自己的距離為0。  
+3.以助教的圖為例: 起點為0
+0可以連到點1和7，距離分別為4和8(dis[1]=4, dis[7]=8)。接著先取距離較近的點1，可以走到點2和7。  
+此時0到2的距離從無限大(非相鄰)修改成較近的4+8=12(dis[2]=dis[1]+g.graph[1][2]);0到7的距離維持不變(因為8<4+11)。  
+4.將已走訪的點index，在list seen中的False修改為True。  
+5.重複以上動作，直到所有點皆看過(seen == [True] * self.V)。
+
+
+[Dijkstra流程圖](https://github.com/starfish8681/starfish8681/blob/master/Week%2014/Dijkstra%E6%B5%81%E7%A8%8B%E5%9C%96.jpg)
+
+- 參考資料:https://www.geeksforgeeks.org/python-program-for-dijkstras-shortest-path-algorithm-greedy-algo-7/
