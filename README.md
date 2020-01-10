@@ -1,14 +1,17 @@
-# 資料結構與演算法 學習筆記
-04122105 高星瑜
+# 資料結構與演算法 學習筆記  
 
-# HW 6
-1. [Dijkstra程式碼](https://github.com/starfish8681/starfish8681/blob/master/HW6/Dijkstra_04122105.py)  
-2. [Dijkstra.Kruskal學習歷程說明](https://github.com/starfish8681/starfish8681/blob/master/HW6/Dijkstra__%E5%AD%B8%E7%BF%92%E7%B4%80%E9%8C%84_04122105.ipynb)    
-流程圖:[Dijkstra](https://github.com/starfish8681/starfish8681/blob/master/Week%2014/Dijkstra%E6%B5%81%E7%A8%8B%E5%9C%96.jpg).[Kruskal](https://github.com/starfish8681/starfish8681/blob/master/Week%2014/Kruskal%E6%B5%81%E7%A8%8B%E5%9C%96.jpg)  
-
-
-
+個人簡介:
 ---
+Hi，我是高星瑜。歡迎來到我的學習筆記。  
+我就讀東吳大學，主修日文，雙主修國貿，  
+而巨資是我的輔系:)  
+資料結構與演算法是程式的基本，所以即使根基不夠穩，我也想來修修這門課。  
+
+
+目錄
+---
+- [Week 1](#week-1) :  
+課程介紹  
 - [Week 2](#week-2) :  
 [Linked List.py](https://github.com/starfish8681/starfish8681/blob/master/Week%202/Linked_list.py)  
 - [Week 3](#Week-3) :  
@@ -43,6 +46,11 @@ Minimum Spanning Tree
 Shortest Path  
 - [Week 16]:  
 . [HW5-Dijkstra & Kruskal](https://github.com/starfish8681/starfish8681/tree/master/HW6)
+
+---
+# Week 1  
+課程介紹
+----
 
 ---
 # Week 2  
@@ -177,7 +185,10 @@ Binary Search Tree
 # Week 10  
 Red Black Tree
 ----
-- Red Black Tree介紹:  
+- Red Black Tree介紹:   
+RBT其實也是BST(滿足Key(L)<Key(Current)<Key(R))，  
+不過RBT的node比BST多加了「顏色」(紅色或黑色)，而正因為多了「顏色」，便能修正BST有可能退化成Linked list的潛在缺陷。  
+RBT可以被視為如同Complete Binary Tree的BST，所有與Search(搜尋)有關的操作(Leftmost、Successor、Insert、Delete等等)，都能夠在O(logN)內完成。  
     
 - 參考資料: [Red Black Tree: Intro](https://alrightchiu.github.io/SecondRound/red-black-tree-introjian-jie.html)
 
@@ -287,4 +298,13 @@ Dijkstra 介紹
 
 [Dijkstra流程圖](https://github.com/starfish8681/starfish8681/blob/master/Week%2014/Dijkstra%E6%B5%81%E7%A8%8B%E5%9C%96.jpg)
 
-- 參考資料:https://www.geeksforgeeks.org/python-program-for-dijkstras-shortest-path-algorithm-greedy-algo-7/
+- 參考資料:https://www.geeksforgeeks.org/python-program-for-dijkstras-shortest-path-algorithm-greedy-algo-7/  
+
+---
+# 課程心得
+經過這整學期的課程，我的心得是:這堂課真的讓我壓力好大!  
+原因是因為我底子不夠，很多基本語法都沒辦法反射性地打出來。  
+但在學期過了之後，我有感受到自己的進步。  
+我覺得寫程式跟生活中遇到的很多困難一樣，學習的就是要自己找出解決問題的方法。  
+這堂課著實讓我學到不少。  
+
