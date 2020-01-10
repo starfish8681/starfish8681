@@ -25,12 +25,12 @@
 [Binary Tree_Linked Structure.py](https://github.com/starfish8681/starfish8681/blob/master/Week%208/Binary%20Tree_Linked%20Structure.py)
 . [HW2-Heap Sort V.S. Merge Sort](https://github.com/starfish8681/starfish8681/tree/master/HW2)
 - [Week 9](#week-9) :  
-[Binary Search Tree]()
+[Binary Search Tree](https://github.com/starfish8681/starfish8681/blob/master/HW3/binary_search_tree_04122105.py)
 - [Week 10](#week-10) :  
 [Red Black Tree.py](https://github.com/starfish8681/starfish8681/blob/master/Week%2010/Red%20Black%20Tree.py)
 . [HW3-Binary Search Tree](https://github.com/starfish8681/starfish8681/tree/master/HW3)
 - [Week 11](#week-11) :  
-[Hash Table.py]()
+[Hash Table.py](https://github.com/starfish8681/starfish8681/blob/master/HW4/hash_table_04122105.py)
 - [Week 12](#week-12) :  
 [BFS.py](https://github.com/starfish8681/starfish8681/blob/master/HW5/BFS_04122105.py)
 . [HW4-Hash Table](https://github.com/starfish8681/starfish8681/tree/master/HW4)
