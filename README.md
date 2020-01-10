@@ -32,13 +32,17 @@
 - [Week 11](#week-11) :  
 [Hash Table.py]()
 - [Week 12](#week-12) :  
-[BFS.py]()
+[BFS.py](https://github.com/starfish8681/starfish8681/blob/master/HW5/BFS_04122105.py)
+. [HW4-Hash Table](https://github.com/starfish8681/starfish8681/tree/master/HW4)
 - [Week 13](#week-13) :  
-[DFS.py]()
+DFS
 - [Week 14](#week-14) :  
-[Minimum Spanning Tree]()
+Minimum Spanning Tree
+. [HW5-BFS & DFS](https://github.com/starfish8681/starfish8681/tree/master/HW5)
 - [Week 15](#week-15) :  
-[Shortest Path]()
+Shortest Path  
+- [Week 16]:  
+. [HW5-Dijkstra & Kruskal](https://github.com/starfish8681/starfish8681/tree/master/HW6)
 
 ---
 # Week 2  
@@ -240,7 +244,8 @@ Depth-First Search
 
 [DFS流程圖](https://github.com/starfish8681/starfish8681/blob/master/Week%2012/DFS%E6%B5%81%E7%A8%8B%E5%9C%96.jpg)
 
-- 參考資料:1.BFS和DFS介紹  
+- 參考資料:  
+1.BFS和DFS介紹  
 
 https://www.youtube.com/watch?v=oLtvUWpAnTQ  
 https://www.youtube.com/watch?v=bD8RT0ub--0&t=601s    
